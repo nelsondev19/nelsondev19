@@ -1,6 +1,6 @@
 ### Hola, Soy Nelson Hernandez 😀
 
-  <img src="banner.png" alt="banner" height="400px" width="750px"/>
+  <img src="https://i.ibb.co/f1r1Xdd/banner.png" alt="banner" height="400px" width="750px"/>
 
 Soy **FullStack Developer**, me apaciona el desarrollo web desde los 15 años, me gusta trabajar con herramientas como **Vue JS**, **React JS**, **Express JS**, **Python (Flask)**, **MongoDB**, etc.
 
