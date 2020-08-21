@@ -6,13 +6,9 @@
 <p align="center"> 
 Hola, Soy Nelson Hernandez 😀
 </p>
-
 <p align="center">
-   <a href="https://www.instagram.com/nelsonhermendz/?hl=es-la" target="blank" style='margin-right:4px'>
-    <img align="center" src="instagram-brands.svg" alt="Nelson-developer" height="28px" width="28px" />
-  </a>
-  <a href="hhttps://medium.com/@nelsonher019" target="blank">
-    <img align="center" src="medium-brands.svg" alt="Nelson-developer" height="28px" width="28px" />
+  <a href="https://www.instagram.com/nelsonhermendz/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nelson-developer" height="28px" width="28px" />
   </a>
 </p>
 
