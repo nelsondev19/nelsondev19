@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img src="https://i.ibb.co/f1r1Xdd/banner.png" alt="banner"/>
+  <img src="https://i.ibb.co/y0mZ7tk/nelson-developer.png" alt="banner"/>
 </p>
 
 <p align="center"> 
