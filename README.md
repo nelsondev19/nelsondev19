@@ -17,3 +17,15 @@ Hola, Soy Nelson Hernandez 😀
 
 
 Soy **FullStack Developer**, me apasiona el desarrollo web desde los 15 años, me gusta trabajar con herramientas como **Vue JS**, **React JS**, **Express JS**, **Python (Flask)**, **MongoDB**, etc.
+
+#### 📹 Publicaciones actuales en [Medium](https://medium.com/@nelsonher019):
+
+<a href='https://youtu.be/JEUGiiMT4A0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/JEUGiiMT4A0/mqdefault.jpg' alt='UNBOXING de la GitHub Star SWAG Box 📦' />
+</a>
+<a href='https://youtu.be/AiyiiXXChwo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AiyiiXXChwo/mqdefault.jpg' alt='Subiendo imágenes a Cloud Storage y creando un Timeago de forma nativa sin Moment.js' />
+</a>
+<a href='https://youtu.be/pe8BCC2EDxg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pe8BCC2EDxg/mqdefault.jpg' alt='☁️ CODESPACES, el entorno de DESARROLLO en la nube de GITHUB' />
+</a>
