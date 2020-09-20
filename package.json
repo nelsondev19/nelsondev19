@@ -1,0 +1,23 @@
+{
+  "name": "nelsondeveloper",
+  "version": "1.0.0",
+  "description": "Nelson-developer Github profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelson-developer/Nelson-developer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelson-developer/Nelson-developer/issues"
+  },
+  "homepage": "https://github.com/Nelson-developer/Nelson-developer#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
