@@ -16,7 +16,7 @@ Hola, Soy Nelson Hernandez 😀
 </p>
 
 
-Soy **Frontend Developer**, me apasiona el desarrollo web desde los 15 años, me gusta trabajar con herramientas como **Vue JS**, **React JS**, **Express JS**, **Python (Flask)**, **MongoDB**, etc.
+Soy **FullStack Developer**, me apasiona el desarrollo web desde los 15 años, me gusta trabajar con herramientas como **Vue JS**, **React JS**, **Express JS**, **Python (Flask)**, **MongoDB**, etc.
 
 #### 📹 Publicaciones actuales en [Medium](https://medium.com/@nelsonher019):
 
