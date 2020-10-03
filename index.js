@@ -39,7 +39,7 @@ const LATEST_IMAGES_DEVTO2 = "%{{latest_images_devto2}}%";
   const devtoPost1 = `<a href="${postDevTo[0].url}" target='_blank'>
     <img width='30%' src=${postDevTo[0].cover_image} alt="${postDevTo[0].title}" />
   </a>`;
-  const devtoPost2 = `<a href="${postDevTo[1].url}k}" target='_blank'>
+  const devtoPost2 = `<a href="${postDevTo[1].url}" target='_blank'>
     <img width='30%' src="${postDevTo[1].cover_image}" alt="${postDevTo[1].title}" />
   </a>`;
 
