@@ -40,6 +40,6 @@ Soy **Frontend Developer**, me apasiona el desarrollo web y enseñar a las perso
 <a href="https://dev.to/nelsonher019/how-to-place-scroll-to-container-or-grid-with-css-3e77" target='_blank'>
     <img width='30%' src=https://res.cloudinary.com/practicaldev/image/fetch/s--WEGWfCEn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4u8e7o4gtqj9zxk1avoo.png alt="How to create scroll to container or grid with css" />
   </a>
-<a href="https://dev.to/nelsonher019/como-usar-firestore-y-react-js-cnbk}" target='_blank'>
+<a href="https://dev.to/nelsonher019/como-usar-firestore-y-react-js-cnb" target='_blank'>
     <img width='30%' src="https://res.cloudinary.com/practicaldev/image/fetch/s--2vnNwlH3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/pj3rmsib3e9a78s860ce.png" alt="Como usar Firestore y React JS" />
   </a>
