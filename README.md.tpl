@@ -8,13 +8,16 @@ Hola, Soy Nelson Hernandez 😀
 </p>
 <p align="center">
 <a href="https://dev.to/nelsonher019" target="blank">
-    <img align="center" src="./dev-brands.svg" alt="nelsonher019" height="28px" width="28px" />
+    <img align="center" src="./youtube-brands.svg" alt="Canal de Youtube de nelsonher019" height="28px" width="28px" />
+  </a>
+<a href="https://dev.to/nelsonher019" target="blank">
+    <img align="center" src="./dev-brands.svg" alt="Perfil de dev.to de nelsonher019" height="28px" width="28px" />
   </a>
   <a href="https://www.instagram.com/nelsonher_019/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nelsonher019" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Perfil de Instagram de nelsonher019" height="28px" width="28px" />
   </a>
    <a href="https://medium.com/@nelsonher019" target="blank">
-    <img align="center" src="https://cdn-images-1.medium.com/max/1200/1*6_fgYnisCa9V21mymySIvA.png" alt="nelsonher019" height="28px" width="28px" />
+    <img align="center" src="https://cdn-images-1.medium.com/max/1200/1*6_fgYnisCa9V21mymySIvA.png" alt="Perfil de Medium de nelsonher019" height="28px" width="28px" />
   </a>
 </p>
 
