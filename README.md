@@ -27,14 +27,14 @@ Soy **Frontend Developer**, me apasiona el desarrollo web y enseñar a las perso
 ####  Publicaciones actuales en [Medium](https://medium.com/@nelsonher019):
 
 
-<a href="https://medium.com/@nelsonher019/5-maneras-de-ejecutar-middlewares-en-flask-6622bb294bcb?source=rss-57948f2413ba------2" target='_blank'>
-    <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*WNrEFM9NuFBZE_pPmKXCZA.png alt="5 maneras de ejecutar middlewares en Flask" />
+<a href="https://medium.com/@nelsonher019/como-encontrar-un-documento-dentro-de-un-array-en-mongodb-de99354ca221?source=rss-57948f2413ba------2" target='_blank'>
+    <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*N2em3--KgpgEWqXHpfrxpA.png alt="¿ Como encontrar un documento dentro de un array en MongoDB?" />
   </a>
-<a href="https://medium.com/@nelsonher019/como-obtener-ficheros-por-extension-con-python-3-733c9469d0b2?source=rss-57948f2413ba------2" target='_blank'>
-    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*hHPx8Frn2Ka003mGAdNlcA.png" alt="Como obtener ficheros por extension con Python 3" />
+<a href="https://medium.com/@nelsonher019/como-descargar-ficheros-con-axios-o-fetch-9f1b54032fa6?source=rss-57948f2413ba------2" target='_blank'>
+    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*QmhsF_U8FTqoifM05_MpzA.png" alt="Como descargar ficheros con axios o fetch" />
   </a>
-<a href="https://medium.com/@nelsonher019/5-maneras-de-consumir-una-api-graphql-a9d94a6964b3?source=rss-57948f2413ba------2" target='_blank'>
-    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*1cje44-ZnO2LfTDav5XLKg.png" alt="5 Maneras de consumir una API GraphQL" />
+<a href="https://medium.com/@nelsonher019/como-buscar-por-edades-en-mongodb-5cc5effba675?source=rss-57948f2413ba------2" target='_blank'>
+    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*L7XAgAwLNq44X903z-Weew.png" alt="Como buscar por edades en MongoDB" />
   </a>
 
 
