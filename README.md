@@ -27,14 +27,14 @@ Soy **Frontend Developer**, me apasiona el desarrollo web y enseñar a las perso
 ####  Publicaciones actuales en [Medium](https://medium.com/@nelsonher019):
 
 
-<a href="https://medium.com/@nelsonher019/como-encontrar-un-documento-dentro-de-un-array-en-mongodb-de99354ca221?source=rss-57948f2413ba------2" target='_blank'>
-    <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*N2em3--KgpgEWqXHpfrxpA.png alt="¿ Como encontrar un documento dentro de un array en MongoDB?" />
+<a href="https://medium.com/@nelsonher019/como-utilizar-where-en-mongodb-9872c48ed764?source=rss-57948f2413ba------2" target='_blank'>
+    <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*L7XAgAwLNq44X903z-Weew.png alt="Como utilizar where en MongoDB" />
   </a>
-<a href="https://medium.com/@nelsonher019/como-descargar-ficheros-con-axios-o-fetch-9f1b54032fa6?source=rss-57948f2413ba------2" target='_blank'>
-    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*QmhsF_U8FTqoifM05_MpzA.png" alt="Como descargar ficheros con axios o fetch" />
+<a href="https://medium.com/@nelsonher019/como-guardar-elementos-en-un-array-con-mongodb-d09e0a81c10e?source=rss-57948f2413ba------2" target='_blank'>
+    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*14mASRuNZjEZDB8xbWQDGQ.png" alt="Como guardar elementos en un array con MongoDB" />
   </a>
-<a href="https://medium.com/@nelsonher019/como-buscar-por-edades-en-mongodb-5cc5effba675?source=rss-57948f2413ba------2" target='_blank'>
-    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*L7XAgAwLNq44X903z-Weew.png" alt="Como buscar por edades en MongoDB" />
+<a href="https://medium.com/@nelsonher019/las-ventajas-mas-importantes-de-redis-52f8778c758b?source=rss-57948f2413ba------2" target='_blank'>
+    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*yHr7JvVpabGAhNDjfE5VbA.png" alt="Las ventajas mas importantes de redis" />
   </a>
 
 
