@@ -27,14 +27,14 @@ Soy **Frontend Developer**, me apasiona el desarrollo web y enseñar a las perso
 ####  Publicaciones actuales en [Medium](https://medium.com/@nelsonher019):
 
 
+<a href="https://medium.com/@nelsonher019/how-to-upload-multiple-images-with-flask-ca3afd96a466?source=rss-57948f2413ba------2" target='_blank'>
+    <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*LloALaHN8KQtxGq807__mg.png alt="How to upload multiple images with Flask ?" />
+  </a>
+<a href="https://medium.com/@nelsonher019/como-buscar-por-frase-especifica-b%C3%BAsqueda-de-texto-en-mongodb-efc848236a97?source=rss-57948f2413ba------2" target='_blank'>
+    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*XIucvlNE4D9lmgzT5pzFBA.png" alt="Como buscar por frase especifica || Búsqueda de texto en MongoDB" />
+  </a>
 <a href="https://medium.com/@nelsonher019/como-utilizar-where-en-mongodb-9872c48ed764?source=rss-57948f2413ba------2" target='_blank'>
-    <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*L7XAgAwLNq44X903z-Weew.png alt="Como utilizar where en MongoDB" />
-  </a>
-<a href="https://medium.com/@nelsonher019/como-guardar-elementos-en-un-array-con-mongodb-d09e0a81c10e?source=rss-57948f2413ba------2" target='_blank'>
-    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*14mASRuNZjEZDB8xbWQDGQ.png" alt="Como guardar elementos en un array con MongoDB" />
-  </a>
-<a href="https://medium.com/@nelsonher019/las-ventajas-mas-importantes-de-redis-52f8778c758b?source=rss-57948f2413ba------2" target='_blank'>
-    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*yHr7JvVpabGAhNDjfE5VbA.png" alt="Las ventajas mas importantes de redis" />
+    <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*L7XAgAwLNq44X903z-Weew.png" alt="Como utilizar where en MongoDB" />
   </a>
 
 
