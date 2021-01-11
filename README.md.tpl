@@ -1,13 +1,13 @@
 
  <p align="center">
-  <img src="https://i.ibb.co/y0mZ7tk/nelson-developer.png" alt="banner"/>
+  <img src="https://i.ibb.co/gJzV46C/miimagen.png" alt="banner"/>
 </p>
 
 <p align="center"> 
-Hola, Soy Nelson Hernandez 😀
+!Que ondas!, Soy Nelson Hernandez 😀
 </p>
 <p align="center">
-<a href="https://dev.to/nelsonher019" target="blank">
+<a href="https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w" target="blank">
     <img align="center" src="./youtube-brands.svg" alt="Canal de Youtube de nelsonher019" height="28px" width="28px" />
   </a>
 <a href="https://dev.to/nelsonher019" target="blank">
