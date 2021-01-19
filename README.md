@@ -27,8 +27,8 @@ Soy **Frontend Developer**, me apasiona el desarrollo web y enseñar a las perso
 ####  Publicaciones actuales en [Medium](https://medium.com/@nelsonher019):
 
 
-<a href="https://medium.com/@nelsonher019/saludos-34941b0ff9b6?source=rss-57948f2413ba------2" target='_blank'>
-    <img width='30%' src=https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=34941b0ff9b6 alt="saludos :))" />
+<a href="https://medium.com/@nelsonher019/como-reutilizar-tus-respuestas-en-flask-586ba712f669?source=rss-57948f2413ba------2" target='_blank'>
+    <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*J84kTyL25djO62zwdW9zlg.png alt="Como reutilizar tus respuestas en Flask" />
   </a>
 <a href="https://medium.com/@nelsonher019/mongoperaciones-regex-con-mongodb-b7a1a494c514?source=rss-57948f2413ba------2" target='_blank'>
     <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*R8PLGyDOUAYoHrXVFf57uQ.png" alt="mongOperaciones regex con MongoDB" />
