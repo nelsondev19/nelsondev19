@@ -13,7 +13,7 @@
 <a href="https://dev.to/nelsonher019" target="blank">
     <img align="center" src="./dev-brands.svg" alt="Perfil de dev.to de nelsonher019" height="28px" width="28px" />
   </a>
-  <a href="https://www.instagram.com/nelsonher019" target="blank">
+  <a href="https://www.instagram.com/nelsonher_019/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Perfil de Instagram de nelsonher019" height="28px" width="28px" />
   </a>
    <a href="https://medium.com/@nelsonher019" target="blank">
