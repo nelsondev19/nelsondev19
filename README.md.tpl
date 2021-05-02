@@ -1,8 +1,3 @@
-
- <p align="center">
-  <img src="https://i.ibb.co/xMLTg28/nelsonher019-4.png" alt="banner"/>
-</p>
-
 <p align="center"> 
 !Que ondas!, Soy Nelson Hernandez 😀
 </p>
