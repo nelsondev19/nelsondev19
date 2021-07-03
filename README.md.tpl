@@ -1,10 +1,3 @@
-<p align="center">
-<img src=https://i.ibb.co/p4XfrJq/nelsoncode.png" style="border-radius: 50%"
-height="150px"
-width="150px"
-/>
-</p>
-
 
 - 👨🏻‍💻 Frontend Developer, DevOps y Youtuber
 - 📙 [Blogger in Medium](https://nelsoncode019.medium.com/)
