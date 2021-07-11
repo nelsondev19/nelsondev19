@@ -5,14 +5,14 @@
 
 ###  Publicaciones actuales en [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
-<a href="https://www.youtube.com/watch?v=YqPW2EyzMyM" target='_blank'>
-     <img width='30%' src="https://i.ytimg.com/vi/YqPW2EyzMyM/hqdefault.jpg" alt="undefined" />
+<a href="https://www.youtube.com/watch?v=OX-SaodLoE8" target='_blank'>
+     <img width='30%' src="https://i.ytimg.com/vi/OX-SaodLoE8/hqdefault_live.jpg" alt="undefined" />
    </a>
-<a href="https://www.youtube.com/watch?v=PbGwAhS9FQE" target='_blank'>
-     <img width='30%' src="https://i.ytimg.com/vi/PbGwAhS9FQE/hqdefault.jpg" alt="undefined" />
+<a href="https://www.youtube.com/watch?v=h23hYS2hOjQ" target='_blank'>
+     <img width='30%' src="https://i.ytimg.com/vi/h23hYS2hOjQ/hqdefault.jpg" alt="undefined" />
    </a>
-<a href="https://www.youtube.com/watch?v=UZLQq7RVe94" target='_blank'>
-     <img width='30%' src="https://i.ytimg.com/vi/UZLQq7RVe94/hqdefault.jpg" alt="undefined" />
+<a href="https://www.youtube.com/watch?v=bXGiq9pK42g" target='_blank'>
+     <img width='30%' src="https://i.ytimg.com/vi/bXGiq9pK42g/hqdefault.jpg" alt="undefined" />
    </a>
 
 
