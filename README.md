@@ -6,7 +6,7 @@
 ###  Publicaciones actuales en [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
 <a href="https://www.youtube.com/watch?v=OX-SaodLoE8" target='_blank'>
-     <img width='30%' src="https://i.ytimg.com/vi/OX-SaodLoE8/hqdefault_live.jpg" alt="undefined" />
+     <img width='30%' src="https://i.ytimg.com/vi/OX-SaodLoE8/hqdefault.jpg" alt="undefined" />
    </a>
 <a href="https://www.youtube.com/watch?v=h23hYS2hOjQ" target='_blank'>
      <img width='30%' src="https://i.ytimg.com/vi/h23hYS2hOjQ/hqdefault.jpg" alt="undefined" />
