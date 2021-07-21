@@ -61,6 +61,6 @@ const LATEST_IMAGES_YOUTUBE3 = "%{{latest_images_youtube3}}%";
       .replace(LATEST_IMAGES_YOUTUBE3, youtubePost3);
     await fs.writeFile("./README.md", newMarkdown);
   } catch (error) {
-    console.log(error);
+    console.log("Ocurrió un error " + error);
   }
 })();
