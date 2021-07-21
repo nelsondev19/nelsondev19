@@ -1,7 +1,7 @@
 const fs = require("fs").promises;
 const axios = require("axios").default;
 require("dotenv").config();
-
+    
 const LATEST_IMAGES_MEDIUM1 = "%{{latest_images_medium1}}%";
 const LATEST_IMAGES_MEDIUM2 = "%{{latest_images_medium2}}%";
 const LATEST_IMAGES_MEDIUM3 = "%{{latest_images_medium3}}%";
@@ -61,6 +61,6 @@ const LATEST_IMAGES_YOUTUBE3 = "%{{latest_images_youtube3}}%";
       .replace(LATEST_IMAGES_YOUTUBE3, youtubePost3);
     await fs.writeFile("./README.md", newMarkdown);
   } catch (error) {
-    console.log(error);
+    console.log("Ocurrió un error" + error);
   }
 })();
