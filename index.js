@@ -17,7 +17,7 @@ const LATEST_IMAGES_YOUTUBE3 = "%{{latest_images_youtube3}}%";
     });
 
     const responseMedium = await axios.get(
-      "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40nelsoncode019"
+      "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40nelsoncode"
     );
     const posts = responseMedium.data.items;
 
