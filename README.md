@@ -18,14 +18,14 @@
 
 ###  Publicaciones actuales en [Medium](https://medium.com/@nelsoncode019)
 
+<a href="https://nelsoncode.medium.com/how-to-use-the-webcam-with-svelte-js-dc27670f10d7?source=rss-57948f2413ba------2" target='_blank'>
+      <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*iKq0TFNJ6tlbrTZ7tKpbNw.png alt="How to use the webcam with Svelte JS" />
+    </a>
 <a href="https://nelsoncode.medium.com/how-to-create-server-of-files-with-fastapi-9acb5500c7cd?source=rss-57948f2413ba------2" target='_blank'>
-      <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*7Jv1fGhNHI3PYEqr1kjQQg.png alt="How to create server of files with FastAPI" />
+      <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*7Jv1fGhNHI3PYEqr1kjQQg.png" alt="How to create server of files with FastAPI" />
     </a>
 <a href="https://nelsoncode.medium.com/como-reutilizar-tus-respuestas-en-flask-586ba712f669?source=rss-57948f2413ba------2" target='_blank'>
       <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*J84kTyL25djO62zwdW9zlg.png" alt="Como reutilizar tus respuestas en Flask" />
-    </a>
-<a href="https://nelsoncode.medium.com/como-utilizar-docker-compose-nodejs-y-redis-49596fab657f?source=rss-57948f2413ba------2" target='_blank'>
-      <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*oV2ELbxsK4rSlGc_-hlpEw.png" alt="Como utilizar  Docker Compose,  Nodejs y Redis" />
     </a>
 
 
