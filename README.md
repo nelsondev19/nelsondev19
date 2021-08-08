@@ -5,27 +5,27 @@
 
 ###  Publicaciones actuales en [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
-<a href="https://www.youtube.com/watch?v=W6P4XDKLxII" target='_blank'>
-     <img width='30%' src="https://i.ytimg.com/vi/W6P4XDKLxII/hqdefault.jpg" alt="undefined" />
+<a href="https://www.youtube.com/watch?v=2nRvVEVoEdY" target='_blank'>
+     <img width='30%' src="https://i.ytimg.com/vi/2nRvVEVoEdY/hqdefault_live.jpg" alt="undefined" />
    </a>
-<a href="https://www.youtube.com/watch?v=g3IiU6pmruY" target='_blank'>
-     <img width='30%' src="https://i.ytimg.com/vi/g3IiU6pmruY/hqdefault.jpg" alt="undefined" />
+<a href="https://www.youtube.com/watch?v=4j9QHkmder4" target='_blank'>
+     <img width='30%' src="https://i.ytimg.com/vi/4j9QHkmder4/hqdefault_live.jpg" alt="undefined" />
    </a>
-<a href="https://www.youtube.com/watch?v=wC7ZLxsinbA" target='_blank'>
-     <img width='30%' src="https://i.ytimg.com/vi/wC7ZLxsinbA/hqdefault.jpg" alt="undefined" />
+<a href="https://www.youtube.com/watch?v=59Rydfp9aOM" target='_blank'>
+     <img width='30%' src="https://i.ytimg.com/vi/59Rydfp9aOM/hqdefault_live.jpg" alt="undefined" />
    </a>
 
 
 ###  Publicaciones actuales en [Medium](https://medium.com/@nelsoncode019)
 
+<a href="https://nelsoncode.medium.com/list-of-interesting-github-endpoints-of-apis-2dc8e8085c1e?source=rss-57948f2413ba------2" target='_blank'>
+      <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*9F2LoIlWRg_RHA79qIdY9Q.png alt="List of interesting GitHub endpoints of APIs" />
+    </a>
 <a href="https://nelsoncode.medium.com/how-to-use-the-webcam-with-svelte-js-dc27670f10d7?source=rss-57948f2413ba------2" target='_blank'>
-      <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*iKq0TFNJ6tlbrTZ7tKpbNw.png alt="How to use the webcam with Svelte JS" />
+      <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*iKq0TFNJ6tlbrTZ7tKpbNw.png" alt="How to use the webcam with Svelte JS" />
     </a>
 <a href="https://nelsoncode.medium.com/how-to-create-server-of-files-with-fastapi-9acb5500c7cd?source=rss-57948f2413ba------2" target='_blank'>
       <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*7Jv1fGhNHI3PYEqr1kjQQg.png" alt="How to create server of files with FastAPI" />
-    </a>
-<a href="https://nelsoncode.medium.com/como-reutilizar-tus-respuestas-en-flask-586ba712f669?source=rss-57948f2413ba------2" target='_blank'>
-      <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*J84kTyL25djO62zwdW9zlg.png" alt="Como reutilizar tus respuestas en Flask" />
     </a>
 
 
