@@ -1,7 +1,7 @@
 const fs = require("fs").promises;
 const axios = require("axios").default;
 require("dotenv").config();
-    
+
 const LATEST_IMAGES_MEDIUM1 = "%{{latest_images_medium1}}%";
 const LATEST_IMAGES_MEDIUM2 = "%{{latest_images_medium2}}%";
 const LATEST_IMAGES_MEDIUM3 = "%{{latest_images_medium3}}%";
@@ -10,6 +10,7 @@ const LATEST_IMAGES_YOUTUBE1 = "%{{latest_images_youtube1}}%";
 const LATEST_IMAGES_YOUTUBE2 = "%{{latest_images_youtube2}}%";
 const LATEST_IMAGES_YOUTUBE3 = "%{{latest_images_youtube3}}%";
 
+console.log("el valor obtenido es el siguiente " + process.env.CHANNELID);
 (async () => {
   try {
     const markdownTemplate = await fs.readFile("./README.md.tpl", {
@@ -48,7 +49,6 @@ const LATEST_IMAGES_YOUTUBE3 = "%{{latest_images_youtube3}}%";
     const youtubePost3 = `<a href="https://www.youtube.com/watch?v=${youtubeItems[2].id.videoId}" target='_blank'>
      <img width='30%' src="${youtubeItems[2].snippet.thumbnails.high.url}" alt="${youtubeItems[2].title}" />
    </a>`;
-
 
     const newMarkdown = markdownTemplate
       // MEDIUM
