@@ -11,7 +11,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
@@ -19,8 +18,8 @@ jobs:
         node-version: '14'
     - run: npm install
       env:
-        API_KEY= ${{ secrets.API_KEY }}
-        CHANNELID= ${{ secrets.CHANNELID }}
+        API_KEY: ${{ secrets.API_KEY }}
+        CHANNELID: ${{ secrets.CHANNELID }}
     - run: npm run update-readme
     - run: |
         git config user.name nelsoncode019
