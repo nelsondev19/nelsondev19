@@ -12,15 +12,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      env:
-        API_KEY: ${{ secrets.API_KEY }}
-        CHANNELID: ${{ secrets.CHANNELID }}
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
       with:
         node-version: '14'
     - run: npm install
     - run: npm run update-readme
+      env:
+        API_KEY: ${{ secrets.API_KEY }}
+        CHANNELID: ${{ secrets.CHANNELID }}
     - run: |
         git config user.name nelsoncode019
         git config user.email nelsonher019@gmail.com
