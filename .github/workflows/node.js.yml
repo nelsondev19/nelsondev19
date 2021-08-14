@@ -12,7 +12,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Run BOT
       env:
         API_KEY: ${{ secrets.API_KEY }}
         CHANNELID: ${{ secrets.CHANNELID }}
