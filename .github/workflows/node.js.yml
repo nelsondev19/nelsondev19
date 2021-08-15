@@ -1,29 +1,21 @@
-name: Update README.md
-
+name: UPDATE README PROFILE
 on:
   push:
-    branches:
-      - master
+    branches: [master]
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * 0"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '14'
-    - run: npm install
-    - run: npm run update-readme
-      env:
-        API_KEY: ${{ env.API_KEY }}
-        CHANNELID: ${{ env.CHANNELID }}
-    - run: |
-        git config user.name nelsoncode019
-        git config user.email nelsonher019@gmail.com
-        git add README.md
-        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Readme actualizado"
-        git push origin master
+      - uses: actions/checkout@v2
+      - name: Get data from Youtube and DEV.to
+        run: curl https://dbhotmhp13.execute-api.us-east-2.amazonaws.com/default/getReadmeProfile >> README.md
+        # Runs a set of commands using the runners shell
+      - name: Push to GitHub
+        run: |
+          git config user.name nelsoncode019
+          git config user.email nelsonher019@gmail.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Readme actualizado"
+          git push origin master
