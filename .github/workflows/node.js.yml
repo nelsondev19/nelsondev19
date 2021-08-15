@@ -1,8 +1,11 @@
 name: UPDATE README PROFILE
 on:
   push:
-    branches: [master]
+    branches:
+      - master
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
 
 jobs:
   build:
