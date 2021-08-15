@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Get data from Youtube and DEV.to
-        run: curl https://dbhotmhp13.execute-api.us-east-2.amazonaws.com/default/getReadmeProfile >> README.md
+        run: curl https://dbhotmhp13.execute-api.us-east-2.amazonaws.com/default/getReadmeProfile > README.md
         # Runs a set of commands using the runners shell
       - name: Push to GitHub
         run: |
