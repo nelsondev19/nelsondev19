@@ -1,13 +1,13 @@
 ###  Publicaciones actuales en [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
+<a href="https://www.youtube.com/watch?v=62xFHCtJ_yA" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/62xFHCtJ_yA/hqdefault.jpg" alt="Autenticación con Google y Flask | Authlib" />
+</a>
 <a href="https://www.youtube.com/watch?v=DylxHMiRn_c" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/DylxHMiRn_c/hqdefault.jpg" alt="Como crear funciones asíncronas  con Python | AsyncIO" />
+ <img width='30%' src="https://i.ytimg.com/vi/DylxHMiRn_c/hqdefault.jpg" alt="Como crear funciones asíncronas con Python | asyncio" />
 </a>
 <a href="https://www.youtube.com/watch?v=POyYF2YPlOQ" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/POyYF2YPlOQ/hqdefault.jpg" alt="Como subir multiples archivos con FastAPI || Python" />
-</a>
-<a href="https://www.youtube.com/watch?v=XHly_DT2I4s" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/XHly_DT2I4s/hqdefault.jpg" alt="Cómo utilizar middlewares con FastAPI" />
 </a>
 
 
