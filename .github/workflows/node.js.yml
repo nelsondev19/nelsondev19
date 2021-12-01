@@ -19,9 +19,11 @@ jobs:
       - name: Run BOT
         run: npm install && npm run update
       - name: Push to GitHub
+        env:
+          MY_EMAIL: ${{ secrets.MY_EMAIL }}
         run: |
           git config user.name nelsoncode019
-          git config user.email nelsonher019@gmail.com
+          git config user.email $MY_EMAIL
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "[bot] README updated"
           git push origin master
