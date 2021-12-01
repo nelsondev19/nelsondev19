@@ -1,24 +1,25 @@
 {
-  "name": "nelsondeveloper",
+  "name": "nelsoncode019",
   "version": "1.0.0",
-  "description": "Nelson-developer Github profile",
+  "description": "{\"message\":\"Not Found\"}",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "update-readme": "node index.js"
+    "update": "node ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nelson-developer/Nelson-developer.git"
+    "url": "git+https://github.com/nelsoncode019/nelsoncode019.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nelson-developer/Nelson-developer/issues"
+    "url": "https://github.com/nelsoncode019/nelsoncode019/issues"
   },
-  "homepage": "https://github.com/Nelson-developer/Nelson-developer#readme",
+  "homepage": "https://github.com/nelsoncode019/nelsoncode019#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.24.0",
     "dotenv": "^10.0.0"
   }
 }
