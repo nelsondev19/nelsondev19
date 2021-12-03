@@ -1,8 +1,8 @@
 import { promises as fs } from "fs";
 import axios from "axios";
-import dotnev from "dotenv";
+import dotenv from "dotenv";
 
-dotnev.config();
+dotenv.config();
 
 const LATEST_IMAGES_MEDIUM1 = "%{{latest_images_medium1}}%";
 const LATEST_IMAGES_MEDIUM2 = "%{{latest_images_medium2}}%";
@@ -14,6 +14,7 @@ const LATEST_IMAGES_YOUTUBE3 = "%{{latest_images_youtube3}}%";
 
 async function handler() {
   try {
+    console.log("la variable es ",process.env.CHANNELID )
     const markdownTemplate = await fs.readFile("./README.md.tpl", {
       encoding: "utf-8",
     });
