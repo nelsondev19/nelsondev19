@@ -17,11 +17,12 @@ jobs:
           node-version: "16"
       - name: Run BOT
         run: npm install && npm run update
+        env:
+          CHANNELID: ${{ secrets.CHANNELID }}
+          API_KEY: ${{ secrets.API_KEY }}
       - name: Push to GitHub
         env:
           MY_EMAIL: ${{ secrets.MY_EMAIL }}
-          CHANNELID: ${{ secrets.CHANNELID }}
-          API_KEY: ${{ secrets.API_KEY }}
         run: |
           git config user.name nelsoncode019
           git config user.email $MY_EMAIL

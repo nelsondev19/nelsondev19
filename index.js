@@ -12,9 +12,10 @@ const LATEST_IMAGES_YOUTUBE1 = "%{{latest_images_youtube1}}%";
 const LATEST_IMAGES_YOUTUBE2 = "%{{latest_images_youtube2}}%";
 const LATEST_IMAGES_YOUTUBE3 = "%{{latest_images_youtube3}}%";
 
+console.log("Hello ", process.env.CHANNELID);
 async function handler() {
   try {
-    console.log("la variable es ",process.env.CHANNELID )
+    console.log("la variable es ", process.env.CHANNELID);
     const markdownTemplate = await fs.readFile("./README.md.tpl", {
       encoding: "utf-8",
     });
