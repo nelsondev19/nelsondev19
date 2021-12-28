@@ -1,4 +1,12 @@
-###  Publicaciones actuales en [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
+# Hi there 👋🏻
+
+- Content Creator of Python & JavaScript in [YouTube] (https://youtube.com/c/NelsonCode)
+- Deep Learning AI Ambassador in [El Salvador] (https://github.com/DeepLearningSivar)
+- Collaborator in [Nodeschool San Miguel Community](https://github.com/nodeschoolsm)
+- Blogger in [DEV.to](https://dev.to/nelsoncode)
+
+
+### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
 <a href="https://www.youtube.com/watch?v=mfymn9qqLHg" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/mfymn9qqLHg/hqdefault.jpg" alt="Google Calendar con FastAPI | Python" />
@@ -11,7 +19,7 @@
 </a>
 
 
-###  Publicaciones actuales en [Medium](https://medium.com/@nelsoncode019)
+### Current publications in [Medium](https://medium.com/@nelsoncode019)
 
 <a href="https://nelsoncode.medium.com/how-to-create-routing-with-lit-library-d14223ca21a9?source=rss-57948f2413ba------2" target='_blank'>
   <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*2c4o5xfe8bSXP7qHOsu1SQ.png alt="How to create Routing with Lit Library" />
