@@ -30,6 +30,3 @@
 <a href="https://nelsoncode.medium.com/how-to-use-azure-blob-storage-with-python-dcda108737f?source=rss-57948f2413ba------2" target='_blank'>
   <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*MQJBGltqu3zZ4vg9NAmWnw.png" alt="How to use Azure Blob Storage with Python" />
 </a>
-
-
-
