@@ -18,6 +18,3 @@
 %{{latest_images_medium1}}%
 %{{latest_images_medium2}}%
 %{{latest_images_medium3}}%
-
-
-
