@@ -1,5 +1,7 @@
 # Hi there 👋🏻
 
+### About
+
 - Content Creator of Python & JavaScript in [YouTube](https://youtube.com/c/NelsonCode)
 - Deep Learning AI Ambassador in [El Salvador](https://github.com/DeepLearningSivar)
 - Collaborator in [Nodeschool San Miguel Community](https://github.com/nodeschoolsm)
