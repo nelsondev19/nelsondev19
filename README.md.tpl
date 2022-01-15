@@ -5,6 +5,19 @@
 - Collaborator in [Nodeschool San Miguel Community](https://github.com/nodeschoolsm)
 - Blogger in [DEV.to](https://dev.to/nelsoncode)
 
+### Social networks
+
+- [Instagram](https://www.instagram.com/nelsoncode/)
+
+- [Facebook](https://facebook.com/nelsoncode.dev)
+
+- [Twitter](https://twitter.com/nelsoncode_dev)
+
+- [DEV.to](https://dev.to/nelsoncode)
+
+- [Medium](https://nelsoncode.medium.com)
+
+- [LinkedIn](https://www.linkedin.com/in/nelsoncode/)
 
 ### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
