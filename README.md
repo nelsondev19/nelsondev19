@@ -5,17 +5,30 @@
 - Collaborator in [Nodeschool San Miguel Community](https://github.com/nodeschoolsm)
 - Blogger in [DEV.to](https://dev.to/nelsoncode)
 
+### Social networks
+
+- [Instagram](https://www.instagram.com/nelsoncode/)
+
+- [Facebook](https://facebook.com/nelsoncode.dev)
+
+- [Twitter](https://twitter.com/nelsoncode_dev)
+
+- [DEV.to](https://dev.to/nelsoncode)
+
+- [Medium](https://nelsoncode.medium.com)
+
+- [LinkedIn](https://www.linkedin.com/in/nelsoncode/)
 
 ### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
+<a href="https://www.youtube.com/watch?v=8fy3XOen3_M" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/8fy3XOen3_M/hqdefault.jpg" alt="Azure Functions con GraphQL | JavaScript" />
+</a>
 <a href="https://www.youtube.com/watch?v=AWN_uwADMf4" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/AWN_uwADMf4/hqdefault.jpg" alt="Azure Blob Storage con JavaScript | Express JS" />
 </a>
 <a href="https://www.youtube.com/watch?v=mfymn9qqLHg" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/mfymn9qqLHg/hqdefault.jpg" alt="Google Calendar con FastAPI | Python" />
-</a>
-<a href="https://www.youtube.com/watch?v=uqUVQ2tW3SY" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/uqUVQ2tW3SY/hqdefault.jpg" alt="Autenticación con Passport JS, Express JS y Google" />
 </a>
 
 
