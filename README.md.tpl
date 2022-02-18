@@ -28,7 +28,7 @@
 %{{latest_images_youtube3}}%
 
 
-### Current publications in [Medium](https://medium.com/@nelsoncode019)
+### Current publications in [Medium](https://medium.com/@nelsoncode)
 
 %{{latest_images_medium1}}%
 %{{latest_images_medium2}}%
