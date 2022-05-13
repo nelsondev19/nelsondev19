@@ -5,7 +5,7 @@
 - Content Creator of Python & JavaScript in [YouTube](https://youtube.com/c/NelsonCode)
 - Deep Learning AI Ambassador in [El Salvador](https://github.com/pieiasv)
 - Collaborator in [Nodeschool San Miguel Community](https://github.com/nodeschoolsm)
-- Blogger in [DEV.to](https://dev.to/nelsoncode)
+- Blogger in [DEV Community](https://dev.to/nelsoncode)
 
 ### Social networks
 
