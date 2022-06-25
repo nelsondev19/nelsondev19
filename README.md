@@ -3,7 +3,7 @@
 ### About
 
 - Content Creator of Python & JavaScript in [YouTube](https://youtube.com/c/NelsonCode)
-- Deep Learning AI Ambassador in [El Salvador](https://github.com/pieiasv)
+- Deep Learning AI Event Ambassador in [El Salvador](https://github.com/pieaisv)
 - Collaborator in [Nodeschool San Miguel Community](https://github.com/nodeschoolsm)
 - Blogger in [DEV Community](https://dev.to/nelsoncode)
 
@@ -23,14 +23,14 @@
 
 ### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
+<a href="https://www.youtube.com/watch?v=5sFQ9owO7es" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/5sFQ9owO7es/hqdefault.jpg" alt="Crea una API GraphQL sin programar | Hasura" />
+</a>
+<a href="https://www.youtube.com/watch?v=EfMj1TS7Ylw" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/EfMj1TS7Ylw/hqdefault.jpg" alt="CRUD FastAPI con Redis | Python" />
+</a>
 <a href="https://www.youtube.com/watch?v=0-vcdYaozL0" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/0-vcdYaozL0/hqdefault.jpg" alt="Cómo utilizar Context API con TypeScript | React JS" />
-</a>
-<a href="https://www.youtube.com/watch?v=YlD2FvLCOLw" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/YlD2FvLCOLw/hqdefault.jpg" alt="Desplegar aplicación de React JS y Nginx en AWS ECS (EC2)" />
-</a>
-<a href="https://www.youtube.com/watch?v=vm2vXdTfZI8" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/vm2vXdTfZI8/hqdefault.jpg" alt="CRUD AWS DynamoDB con FastAPI | Python" />
 </a>
 
 
