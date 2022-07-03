@@ -23,14 +23,14 @@
 
 ### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
+<a href="https://www.youtube.com/watch?v=edYuOO15QJk" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/edYuOO15QJk/hqdefault.jpg" alt="Cómo monitorear PostgreSQL con Grafana, Prometheus y Docker" />
+</a>
 <a href="https://www.youtube.com/watch?v=5sFQ9owO7es" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/5sFQ9owO7es/hqdefault.jpg" alt="Crea una API GraphQL sin programar | Hasura" />
 </a>
 <a href="https://www.youtube.com/watch?v=EfMj1TS7Ylw" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/EfMj1TS7Ylw/hqdefault.jpg" alt="CRUD FastAPI con Redis | Python" />
-</a>
-<a href="https://www.youtube.com/watch?v=0-vcdYaozL0" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/0-vcdYaozL0/hqdefault.jpg" alt="Cómo utilizar Context API con TypeScript | React JS" />
 </a>
 
 
