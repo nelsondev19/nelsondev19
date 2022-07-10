@@ -23,14 +23,14 @@
 
 ### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
+<a href="https://www.youtube.com/watch?v=SqIMnTNhe2o" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/SqIMnTNhe2o/hqdefault.jpg" alt="¿Cómo agregar Dependabot a tu repositorio de GitHub?" />
+</a>
+<a href="https://www.youtube.com/watch?v=CWjuYqabVRE" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/CWjuYqabVRE/hqdefault.jpg" alt="Como ejecutar Deno en GitHub Codespaces | devcontainers" />
+</a>
 <a href="https://www.youtube.com/watch?v=edYuOO15QJk" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/edYuOO15QJk/hqdefault.jpg" alt="Cómo monitorear PostgreSQL con Grafana, Prometheus y Docker" />
-</a>
-<a href="https://www.youtube.com/watch?v=5sFQ9owO7es" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/5sFQ9owO7es/hqdefault.jpg" alt="Crea una API GraphQL sin programar | Hasura" />
-</a>
-<a href="https://www.youtube.com/watch?v=EfMj1TS7Ylw" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/EfMj1TS7Ylw/hqdefault.jpg" alt="CRUD FastAPI con Redis | Python" />
 </a>
 
 
