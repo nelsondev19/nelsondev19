@@ -36,12 +36,12 @@
 
 ### Current publications in [Medium](https://medium.com/@nelsoncode)
 
+<a href="https://nelsoncode.medium.com/how-to-deploy-react-nginx-on-aws-ecs-fargate-cb9bf93676ca?source=rss-57948f2413ba------2" target='_blank'>
+  <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*pFXcLr746SIIUZbqIV0fsA.png alt="How to deploy React + Nginx on AWS ECS (FARGATE)" />
+</a>
 <a href="https://nelsoncode.medium.com/how-to-monitor-posgresql-with-prometheus-and-grafana-docker-36d216532ea2?source=rss-57948f2413ba------2" target='_blank'>
-  <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*9MECiKiUI-cSjNNIRsFNGg.png alt="How to monitor PosgreSQL with Prometheus and Grafana | Docker" />
+  <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*9MECiKiUI-cSjNNIRsFNGg.png" alt="How to monitor PosgreSQL with Prometheus and Grafana | Docker" />
 </a>
 <a href="https://nelsoncode.medium.com/how-to-version-docker-images-with-gitlab-ci-cd-2c4a1ab4df4f?source=rss-57948f2413ba------2" target='_blank'>
   <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*0wwRGLpi6BhdZFWx_xzv5Q.png" alt="How to version Docker images with GitLab CI/CD" />
-</a>
-<a href="https://nelsoncode.medium.com/how-to-monitor-redis-with-prometheus-and-grafana-docker-6eb33a5ea998?source=rss-57948f2413ba------2" target='_blank'>
-  <img width='30%' src="https://cdn-images-1.medium.com/max/1024/1*BW5FO3CHlRYEB9-reGelxA.png" alt="How to monitor Redis with Prometheus and Grafana | Docker" />
 </a>
