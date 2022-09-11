@@ -23,14 +23,14 @@
 
 ### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
+<a href="https://www.youtube.com/watch?v=L-FNaDoUbqA" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/L-FNaDoUbqA/hqdefault.jpg" alt="PlanetScale - MYSQL en la nube" />
+</a>
 <a href="https://www.youtube.com/watch?v=f9jZ7x2A1uY" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/f9jZ7x2A1uY/hqdefault.jpg" alt="Testing E2E con Cypress y Next JS" />
 </a>
 <a href="https://www.youtube.com/watch?v=Y2LJsvFxClQ" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/Y2LJsvFxClQ/hqdefault.jpg" alt="Desplegar aplicación de React JS y Nginx en AWS ECS (FARGATE)" />
-</a>
-<a href="https://www.youtube.com/watch?v=SqIMnTNhe2o" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/SqIMnTNhe2o/hqdefault.jpg" alt="¿Cómo agregar Dependabot a tu repositorio de GitHub?" />
 </a>
 
 
