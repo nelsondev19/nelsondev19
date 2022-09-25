@@ -23,14 +23,14 @@
 
 ### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
-<a href="https://www.youtube.com/watch?v=7_HfLpVRVFE" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/7_HfLpVRVFE/hqdefault.jpg" alt="Como configurar un BALANCEADOR DE CARGA con AWS ECS Fargate | Docker" />
+<a href="https://www.youtube.com/watch?v=m4SkgnEBI40" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/m4SkgnEBI40/hqdefault.jpg" alt="AWS ECS es un servicio de orquestación de contenedores" />
 </a>
-<a href="https://www.youtube.com/watch?v=piFHz_UdBmM" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/piFHz_UdBmM/hqdefault.jpg" alt="Optimizaciones de imágenes con Azure Functions | Blob Storage Trigger | Python" />
+<a href="https://www.youtube.com/watch?v=kUNHw1Fkpew" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/kUNHw1Fkpew/hqdefault.jpg" alt="Medir el rendimiento web con Lighthouse" />
 </a>
-<a href="https://www.youtube.com/watch?v=L-FNaDoUbqA" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/L-FNaDoUbqA/hqdefault.jpg" alt="PlanetScale - MYSQL en la nube" />
+<a href="https://www.youtube.com/watch?v=StdMVEMJoTo" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/StdMVEMJoTo/hqdefault.jpg" alt="Autenticación con Microsoft y React JS | Passport JS" />
 </a>
 
 
