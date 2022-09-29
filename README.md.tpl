@@ -5,9 +5,8 @@
 - Content Creator of Python & JavaScript in [YouTube](https://youtube.com/c/NelsonCode)
 - Deep Learning AI Event Ambassador in [El Salvador](https://github.com/pieaisv)
 - Collaborator in [Nodeschool San Miguel Community](https://github.com/nodeschoolsm)
-- Blogger in [DEV Community](https://dev.to/nelsoncode)
 
-### Social networks
+### Social media
 
 - [Instagram](https://www.instagram.com/nelsoncode/)
 
@@ -15,11 +14,17 @@
 
 - [Twitter](https://twitter.com/nelsoncode_dev)
 
-- [DEV.to](https://dev.to/nelsoncode)
+- [DEV Community](https://dev.to/nelsoncode)
 
 - [Medium](https://nelsoncode.medium.com)
 
 - [LinkedIn](https://www.linkedin.com/in/nelsoncode/)
+
+- [TikTok](https://www.tiktok.com/@nelsoncode)
+
+- [GitLab](https://www.gitlab.com/nelsoncode)
+
+- [YouTube](https://www.youtube.com/c/NelsonCode)
 
 ### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
