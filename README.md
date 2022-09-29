@@ -7,7 +7,7 @@
 - Collaborator in [Nodeschool San Miguel Community](https://github.com/nodeschoolsm)
 - Blogger in [DEV Community](https://dev.to/nelsoncode)
 
-### Social media
+### Social networks
 
 - [Instagram](https://www.instagram.com/nelsoncode/)
 
@@ -23,14 +23,14 @@
 
 ### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
-<a href="https://www.youtube.com/watch?v=m4SkgnEBI40" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/m4SkgnEBI40/hqdefault.jpg" alt="AWS ECS es un servicio de orquestación de contenedores" />
+<a href="https://www.youtube.com/watch?v=Z5ODRM2r5cw" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/Z5ODRM2r5cw/hqdefault.jpg" alt="Cómo guardar el estado de Terraform en la nube" />
 </a>
-<a href="https://www.youtube.com/watch?v=kUNHw1Fkpew" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/kUNHw1Fkpew/hqdefault.jpg" alt="Medir el rendimiento web con Lighthouse" />
+<a href="https://www.youtube.com/watch?v=2soc4FFZCCA" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/2soc4FFZCCA/hqdefault.jpg" alt="Guarda el ESTADO DE TERRAFORM en la nube | GitLab" />
 </a>
-<a href="https://www.youtube.com/watch?v=StdMVEMJoTo" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/StdMVEMJoTo/hqdefault.jpg" alt="Autenticación con Microsoft y React JS | Passport JS" />
+<a href="https://www.youtube.com/watch?v=Z6taxFMl17Y" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/Z6taxFMl17Y/hqdefault.jpg" alt="Servicio de mensajeria con AWS SNS | Python" />
 </a>
 
 
