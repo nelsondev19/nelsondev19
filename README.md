@@ -7,7 +7,7 @@
 - Collaborator in [Nodeschool San Miguel Community](https://github.com/nodeschoolsm)
 - Blogger in [DEV Community](https://dev.to/nelsoncode)
 
-### Social networks
+### Social media
 
 - [Instagram](https://www.instagram.com/nelsoncode/)
 
