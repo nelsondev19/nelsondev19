@@ -2,9 +2,8 @@
 
 ### About
 
-- Content Creator of Python & JavaScript in [YouTube](https://youtube.com/c/NelsonCode)
-- Deep Learning AI Event Ambassador 🍰
-- Collaborator in [Nodeschool San Miguel Community](https://github.com/nodeschoolsm)
+- Content Creator in [YouTube](https://youtube.com/c/NelsonCode)
+- [DeepLearning.AI](https://www.deeplearning.ai/) Event Ambassador 🍰
 
 ### Social media
 
