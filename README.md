@@ -27,14 +27,14 @@
 
 ### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
 
+<a href="https://www.youtube.com/watch?v=0nrAviBRRdo" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/0nrAviBRRdo/hqdefault.jpg" alt="Crea tus propios comandos para la terminal | Linux" />
+</a>
 <a href="https://www.youtube.com/watch?v=71mdRNOBUdo" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/71mdRNOBUdo/hqdefault.jpg" alt="Autenticación con GitHub y React JS | Passport JS" />
 </a>
 <a href="https://www.youtube.com/watch?v=nOGIhh1VnWM" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/nOGIhh1VnWM/hqdefault.jpg" alt="AWS Lambda con TypeScript | S3 Trigger | Serverless Framework" />
-</a>
-<a href="https://www.youtube.com/watch?v=Z5ODRM2r5cw" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/Z5ODRM2r5cw/hqdefault.jpg" alt="Cómo guardar el estado de Terraform en la nube" />
 </a>
 
 
