@@ -23,9 +23,9 @@
 
 - [GitLab](https://www.gitlab.com/nelsoncode)
 
-- [YouTube](https://www.youtube.com/c/NelsonCode)
+- [YouTube](https://www.youtube.com/@NelsonCode)
 
-### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
+### Current publications in [Youtube](https://www.youtube.com/@NelsonCode)
 
 %{{latest_images_youtube1}}%
 %{{latest_images_youtube2}}%
