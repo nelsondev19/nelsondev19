@@ -23,9 +23,9 @@
 
 - [GitLab](https://www.gitlab.com/nelsoncode)
 
-- [YouTube](https://www.youtube.com/c/NelsonCode)
+- [YouTube](https://www.youtube.com/@NelsonCode)
 
-### Current publications in [Youtube](https://www.youtube.com/channel/UCNtGnenu3-E363hcijzVt0w/featured)
+### Current publications in [Youtube](https://www.youtube.com/@NelsonCode)
 
 <a href="https://www.youtube.com/watch?v=0nrAviBRRdo" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/0nrAviBRRdo/hqdefault.jpg" alt="Crea tus propios comandos para la terminal | Linux" />
