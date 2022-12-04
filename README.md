@@ -27,14 +27,14 @@
 
 ### Current publications in [Youtube](https://www.youtube.com/@NelsonCode)
 
+<a href="https://www.youtube.com/watch?v=KCHvBEwpGqg" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/KCHvBEwpGqg/hqdefault.jpg" alt="Como monitorear Redis con Grafana y Prometheus | Alertas con Grafana" />
+</a>
 <a href="https://www.youtube.com/watch?v=0nrAviBRRdo" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/0nrAviBRRdo/hqdefault.jpg" alt="Crea tus propios comandos para la terminal | Linux" />
 </a>
 <a href="https://www.youtube.com/watch?v=71mdRNOBUdo" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/71mdRNOBUdo/hqdefault.jpg" alt="Autenticación con GitHub y React JS | Passport JS" />
-</a>
-<a href="https://www.youtube.com/watch?v=nOGIhh1VnWM" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/nOGIhh1VnWM/hqdefault.jpg" alt="AWS Lambda con TypeScript | S3 Trigger | Serverless Framework" />
 </a>
 
 
