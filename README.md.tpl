@@ -1,8 +1,8 @@
 # Hi there 👋🏻
 
-### About
+### About me
 
-- Content Creator in [YouTube](https://youtube.com/c/NelsonCode)
+- Content Creator on [YouTube](https://youtube.com/c/NelsonCode)
 - [DeepLearning.AI](https://www.deeplearning.ai/) Event Ambassador 🍰
 
 ### Social media
@@ -25,14 +25,14 @@
 
 - [YouTube](https://www.youtube.com/@NelsonCode)
 
-### Current publications in [Youtube](https://www.youtube.com/@NelsonCode)
+### Current publications on [Youtube](https://www.youtube.com/@NelsonCode)
 
 %{{latest_images_youtube1}}%
 %{{latest_images_youtube2}}%
 %{{latest_images_youtube3}}%
 
 
-### Current publications in [Medium](https://medium.com/@nelsoncode)
+### Current publications on [Medium](https://medium.com/@nelsoncode)
 
 %{{latest_images_medium1}}%
 %{{latest_images_medium2}}%
