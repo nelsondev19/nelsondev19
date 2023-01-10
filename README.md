@@ -25,7 +25,7 @@
 
 - [YouTube](https://www.youtube.com/@NelsonCode)
 
-### Current publications on [Youtube](https://www.youtube.com/@NelsonCode)
+### Current publications in [Youtube](https://www.youtube.com/@NelsonCode)
 
 <a href="https://www.youtube.com/watch?v=BdiBBe6LTG8" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/BdiBBe6LTG8/hqdefault.jpg" alt="Como configurar un BALANCEADOR DE CARGA (application) con AWS ECS EC2 | Docker" />
@@ -38,7 +38,7 @@
 </a>
 
 
-### Current publications on [Medium](https://medium.com/@nelsoncode)
+### Current publications in [Medium](https://medium.com/@nelsoncode)
 
 <a href="https://nelsoncode.medium.com/how-to-deploy-react-nginx-on-aws-ecs-fargate-cb9bf93676ca?source=rss-57948f2413ba------2" target='_blank'>
   <img width='30%' src=https://cdn-images-1.medium.com/max/1024/1*pFXcLr746SIIUZbqIV0fsA.png alt="How to deploy React + Nginx on AWS ECS (FARGATE)" />
