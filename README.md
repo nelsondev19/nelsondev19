@@ -1,8 +1,8 @@
 # Hi there 👋🏻
 
-### About me
+### About
 
-- Content Creator on [YouTube](https://youtube.com/c/NelsonCode)
+- Content Creator in [YouTube](https://youtube.com/c/NelsonCode)
 - [DeepLearning.AI](https://www.deeplearning.ai/) Event Ambassador 🍰
 
 ### Social media
@@ -27,14 +27,14 @@
 
 ### Current publications in [Youtube](https://www.youtube.com/@NelsonCode)
 
+<a href="https://www.youtube.com/watch?v=BdiBBe6LTG8" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/BdiBBe6LTG8/hqdefault.jpg" alt="Como configurar un BALANCEADOR DE CARGA (application) con AWS ECS EC2 | Docker" />
+</a>
 <a href="https://www.youtube.com/watch?v=KCHvBEwpGqg" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/KCHvBEwpGqg/hqdefault.jpg" alt="Como monitorear Redis con Grafana y Prometheus | Alertas con Grafana" />
 </a>
 <a href="https://www.youtube.com/watch?v=0nrAviBRRdo" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/0nrAviBRRdo/hqdefault.jpg" alt="Crea tus propios comandos para la terminal | Linux" />
-</a>
-<a href="https://www.youtube.com/watch?v=71mdRNOBUdo" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/71mdRNOBUdo/hqdefault.jpg" alt="Autenticación con GitHub y React JS | Passport JS" />
 </a>
 
 
