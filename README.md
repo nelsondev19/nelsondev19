@@ -1,6 +1,6 @@
 # Hi there 👋🏻
 
-### About
+### About me
 
 - Content Creator on [YouTube](https://youtube.com/c/NelsonCode)
 - [DeepLearning.AI](https://www.deeplearning.ai/) Event Ambassador 🍰
