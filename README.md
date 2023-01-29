@@ -27,14 +27,14 @@
 
 ### Current publications on [Youtube](https://www.youtube.com/@NelsonCode)
 
+<a href="https://www.youtube.com/watch?v=b5triU6QKaY" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/b5triU6QKaY/hqdefault.jpg" alt="Pagos en línea con Stripe y Next JS | TypeScript" />
+</a>
 <a href="https://www.youtube.com/watch?v=BdiBBe6LTG8" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/BdiBBe6LTG8/hqdefault.jpg" alt="Como configurar un BALANCEADOR DE CARGA (application) con AWS ECS EC2 | Docker" />
 </a>
 <a href="https://www.youtube.com/watch?v=KCHvBEwpGqg" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/KCHvBEwpGqg/hqdefault.jpg" alt="Como monitorear Redis con Grafana y Prometheus | Alertas con Grafana" />
-</a>
-<a href="https://www.youtube.com/watch?v=0nrAviBRRdo" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/0nrAviBRRdo/hqdefault.jpg" alt="Crea tus propios comandos para la terminal | Linux" />
 </a>
 
 
