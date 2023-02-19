@@ -7,14 +7,14 @@
 
 ### Current publications on [Youtube](https://www.youtube.com/@NelsonCode)
 
+<a href="https://www.youtube.com/watch?v=R8sTLo1Y5G4" target='_blank'>
+ <img width='30%' src="https://i.ytimg.com/vi/R8sTLo1Y5G4/hqdefault.jpg" alt="QStash | envia mensajes HTTP de manera serverless" />
+</a>
 <a href="https://www.youtube.com/watch?v=GCDaAS6-0rQ" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/GCDaAS6-0rQ/hqdefault.jpg" alt="Restaura tus fotos antiguas con restorephotos.io" />
 </a>
 <a href="https://www.youtube.com/watch?v=b5triU6QKaY" target='_blank'>
  <img width='30%' src="https://i.ytimg.com/vi/b5triU6QKaY/hqdefault.jpg" alt="Pagos en línea con Stripe y Next JS | TypeScript" />
-</a>
-<a href="https://www.youtube.com/watch?v=BdiBBe6LTG8" target='_blank'>
- <img width='30%' src="https://i.ytimg.com/vi/BdiBBe6LTG8/hqdefault.jpg" alt="Como configurar un BALANCEADOR DE CARGA (application) con AWS ECS EC2 | Docker" />
 </a>
 
 
