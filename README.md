@@ -4,6 +4,8 @@
 
 - Content Creator on [YouTube](https://youtube.com/c/NelsonCode)
 - [DeepLearning.AI](https://www.deeplearning.ai/) Event Ambassador 🍰
+- [HashiCorp](https://www.hashicorp.com/) Ambassador 2023
+
 
 ### Current publications on [Youtube](https://www.youtube.com/@NelsonCode)
 
